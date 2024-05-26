@@ -2,7 +2,7 @@
 
 ## 👨‍💻 IoT and Systems Integration Specialist
 
-![Profile Banner](https://github.com/SaddatAkber/SaddatAkber/blob/main/github-header-image (1).png)
+![Profile Banner](https://github.com/SaddatAkber/SaddatAkber/blob/main/github-header-image(1).png)
 
 ### About Me
 - 👀 **Interests**: Microcontrollers and building web apps.
