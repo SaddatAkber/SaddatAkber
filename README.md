@@ -33,9 +33,9 @@
 - 🌐 [Personal Website](https://www.edgerox.com)
 
 ### Projects
-- 🌟 [Project 1](https://github.com/SaddatAkber/Project1): Brief description of what this project is about.
-- 🌟 [Project 2](https://github.com/SaddatAkber/Project2): Brief description of what this project is about.
-- 🌟 [Project 3](https://github.com/SaddatAkber/Project3): Brief description of what this project is about.
+- 🌟 [Project 1](https://clever-weatherapp.vercel.app/): IoT Weather App.
+- 🌟 [Project 2](https://github.com/SaddatAkber/Project2): 
+- 🌟 [Project 3](https://github.com/SaddatAkber/Project3): 
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
