@@ -28,7 +28,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaddatAkber&layout=compact&theme=radical)
 
 ### Get in Touch
-- 📧 [Email to:](saddatakber@hotmail.com)
+- 📧 [Email](saddatakber@hotmail.com)
 - 📝 [LinkedIn](https://www.linkedin.com/in/saddatakber)
 - 🌐 [Personal Website](https://www.edgerox.com)
 
