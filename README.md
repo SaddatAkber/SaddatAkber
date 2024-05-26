@@ -28,9 +28,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaddatAkber&layout=compact&theme=radical)
 
 ### Get in Touch
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](saddatakber@hotmail.com)
 - 📝 [LinkedIn](https://www.linkedin.com/in/saddatakber)
-- 🌐 [Personal Website](https://www.your-website.com)
+- 🌐 [Personal Website](https://www.edgerox.com)
 
 ### Projects
 - 🌟 [Project 1](https://github.com/SaddatAkber/Project1): Brief description of what this project is about.
@@ -39,7 +39,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](https://www.your-blog.com/blog-post-1)
+- [Title of Blog Post 1](https://clever-weatherapp.vercel.app/)
 - [Title of Blog Post 2](https://www.your-blog.com/blog-post-2)
 - [Title of Blog Post 3](https://www.your-blog.com/blog-post-3)
 <!-- BLOG-POST-LIST:END -->
